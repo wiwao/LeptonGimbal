@@ -4,6 +4,7 @@ the original is as follows;-
 https://www.instructables.com/Gyro-Stabilizer-W-Arduino-and-Servo/
 name has been changed as LEPTONGIMBAL
 limitation added for pitch and roll as follows;-
+
     // flush buffer to prevent overflow
     mpu.resetFIFO();
     if (-45 < mpuPitch && mpuPitch < 45) // range +/- 45 dgree
