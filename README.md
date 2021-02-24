@@ -1,5 +1,8 @@
 # LeptonGimbal
 Gimbal for thermal cam(geared motor type)
+
+*BEFORE YOU CONNECT GIMBAL YOU NEED TO CALIBRATION OFFSET.
+
 the original is as follows;-
 https://www.instructables.com/Gyro-Stabilizer-W-Arduino-and-Servo/
 name has been changed as LEPTONGIMBAL
