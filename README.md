@@ -1,7 +1,7 @@
 # LeptonGimbal
 Gimbal for thermal cam(geared motor type)
 
-*BEFORE YOU CONNECT SERVO-SG90 YOU NEED TO CALIBRATION OFFSET WITH MPU6050.
+*BEFORE YOU CONNECT SERVO-SG90 YOU NEED TO CALIBRATION OFFSET WITH GY-521(MPU6050).
 
 the original is as follows;-
 https://www.instructables.com/Gyro-Stabilizer-W-Arduino-and-Servo/
