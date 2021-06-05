@@ -1,4 +1,4 @@
-# LeptonGimbal
+# LeptonGimbal(made by FLIR)
 Gimbal for thermal cam(geared motor type)
 
 *BEFORE YOU CONNECT SERVO-SG90 YOU NEED TO CALIBRATION OFFSET WITH GY-521(MPU6050).
